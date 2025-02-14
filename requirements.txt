@@ -1,0 +1,4 @@
+ipykernel
+mediapipe==0.10.14 
+opencv-python==4.11.0.86
+msvc-runtime==14.42.34433
